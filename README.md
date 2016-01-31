@@ -7,6 +7,7 @@ Para fazer uma crítia ou sugestão crie uma issue :)
 ## Dicas, relatos ou outros
 Crie um arquivo markdown e faça um link aqui
 - [Relato do Helio](relatos/helio.md)
+- [Relato do Marcelo](relatos/marcelopalladino.md)
 
 
 Este Repo segue o [Contributor Covenant](http://contributor-covenant.org/)
