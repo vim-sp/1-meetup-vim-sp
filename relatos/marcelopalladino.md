@@ -10,4 +10,4 @@
 
 
 
-Foi muito divertido/instrituvi, pessoal!
+Foi muito divertido/instrutivo, pessoal!
